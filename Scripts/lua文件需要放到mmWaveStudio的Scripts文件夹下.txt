@@ -1,0 +1,2 @@
+在mmwave studio的安装目录下，例如：
+C:\ti\mmwave_studio_02_01_01_00\mmWaveStudio\Scripts\
